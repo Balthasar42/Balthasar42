@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Balthasar42
 - 💞️ Work as a frontend developer & ui-designer
-- 🌱 I’m currently learning react
+- 🌱 I’m currently work an project with directus & next.js 15
 - 📫 How to reach me -> PM
+
+# Project Ideas / Todos:
 
 <a href="https://app.daily.dev/Balthasar42"><img src="https://github.com/Balthasar42/Balthasar42/blob/main/devcard.svg" width="400" alt="Balthasar's Dev Card"/></a>
 
