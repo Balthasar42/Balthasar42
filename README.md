@@ -4,6 +4,7 @@
 - 📫 How to reach me -> PM
 
 # Project Ideas / Todos:
+- Daily Task Hero (RPG Game - which generate EXP if you do real life dailys)
 
 <a href="https://app.daily.dev/Balthasar42"><img src="https://github.com/Balthasar42/Balthasar42/blob/main/devcard.svg" width="400" alt="Balthasar's Dev Card"/></a>
 
