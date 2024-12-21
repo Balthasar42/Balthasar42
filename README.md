@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Balthasar42
 - 💞️ Work as a frontend developer & ui-designer
 - 🌱 I’m currently work an project with directus & next.js 15
+- 🌱 I’m currently work an project with prismic type safe api & next.js 15
 - 📫 How to reach me -> PM
 
 # Project Ideas / Todos:
