@@ -25,7 +25,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Balthasar42&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=Balthasar42&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌟 Daily.dev Card
 <a href="https://app.daily.dev/Balthasar42"><img src="https://github.com/Balthasar42/Balthasar42/blob/main/devcard.svg" width="400" alt="Balthasar's Dev Card"/></a>
