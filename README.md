@@ -1,8 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m Nikolai / Balthasar42 <br>
 💞️ Work as a frontend developer & ui-designer <br>
-🔭 I’m currently working on my Skills <br>
-🌱 I’m currently learning more about Fullstack Web development <br>
+🔭 I’m currently working on my Skills as always <br>
 📫 How to reach me -> PM
 
 # 💻 Tech Stack:
